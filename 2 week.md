@@ -20,3 +20,4 @@
 > + 흔히들 색의 깊이, 색의 심도라고 얘기한다. 비트맵에서 하나의 화소의 색을 지시하기 위해 사용되는 비트수를 의미한다. 
 > 
 > ![depth of color](https://d36nqgmw98q4v5.cloudfront.net/images/Article_Images/ImageForArticle_1151(1).jpg) 
+> 
